@@ -1,1 +1,1 @@
-# Gallery-Algo
+# Multiuse-Gallery
